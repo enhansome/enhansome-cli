@@ -1,0 +1,748 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ora",
+          "description": "Elegant terminal spinner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T22:14:56Z",
+            "owner": "sindresorhus",
+            "repo": "ora",
+            "stars": 9737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "single-line-log",
+          "description": "Keep writing to the same line in the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-05T09:53:53Z",
+            "owner": "freeall",
+            "repo": "single-line-log",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "progress-string",
+          "description": "Progress bar to be placed anywhere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-29T11:47:09Z",
+            "owner": "watson",
+            "repo": "progress-string",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "Animation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chalk",
+          "description": "Terminal string styling done right.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T14:51:04Z",
+            "owner": "chalk",
+            "repo": "chalk",
+            "stars": 23303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chalk-animation",
+          "description": "Colorful animations in terminal output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-13T10:59:52Z",
+            "owner": "bokub",
+            "repo": "chalk-animation",
+            "stars": 2182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boxen",
+          "description": "Create boxes in the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-19T03:55:38Z",
+            "owner": "sindresorhus",
+            "repo": "boxen",
+            "stars": 1674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gradient-string",
+          "description": "Beautiful color gradients in terminal output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-12T08:36:03Z",
+            "owner": "bokub",
+            "repo": "gradient-string",
+            "stars": 1198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparkly",
+          "description": "Generate sparklines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-10T08:35:43Z",
+            "owner": "sindresorhus",
+            "repo": "sparkly",
+            "stars": 435
+          }
+        }
+      ],
+      "title": "Colorize"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "prompts",
+          "description": "Lightweight, beautiful and user-friendly interactive prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-14T16:42:36Z",
+            "owner": "terkelg",
+            "repo": "prompts",
+            "stars": 9311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qoa",
+          "description": "Minimal interactive command-line prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-03T14:46:11Z",
+            "owner": "klaudiosinani",
+            "repo": "qoa",
+            "stars": 2052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "email-prompt",
+          "description": "CLI email prompt featuring autocompletion and validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T03:26:57Z",
+            "owner": "vercel",
+            "repo": "email-prompt",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ansi-diff-stream",
+          "description": "A diff friendly cli input module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-23T02:32:28Z",
+            "owner": "mafintosh",
+            "repo": "ansi-diff-stream",
+            "stars": 109
+          }
+        }
+      ],
+      "title": "Input"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terminal-link",
+          "description": "Create clickable links in the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-08T11:27:07Z",
+            "owner": "sindresorhus",
+            "repo": "terminal-link",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cli-table3",
+          "description": "Pretty unicode tables for the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-19T18:21:47Z",
+            "owner": "cli-table",
+            "repo": "cli-table3",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fmt-obj",
+          "description": "Stringifies any JavaScript object in your console for CLI inspection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-22T06:24:46Z",
+            "owner": "queckezz",
+            "repo": "fmt-obj",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "term-img",
+          "description": "Display images in iTerm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-07T04:22:35Z",
+            "owner": "sindresorhus",
+            "repo": "term-img",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsome",
+          "description": "Pretty format JSON on terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-29T22:26:11Z",
+            "owner": "Javascipt",
+            "repo": "Jsome",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neat-log",
+          "description": "Logger for stateful Command Line Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-29T17:21:00Z",
+            "owner": "neat-log",
+            "repo": "neat-log",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prettycli",
+          "description": "Pretty print messages on the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-15T07:21:13Z",
+            "owner": "siddharthkp",
+            "repo": "prettycli",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beauty-error",
+          "description": "Getting a beauty error. Oriented for well printed errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T20:08:54Z",
+            "owner": "Kikobeats",
+            "repo": "beauty-error",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Output"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "meow",
+          "description": "CLI app helper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T18:40:22Z",
+            "owner": "sindresorhus",
+            "repo": "meow",
+            "stars": 3712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clipboardy",
+          "description": "Access the system clipboard (copy/paste).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-23T11:44:38Z",
+            "owner": "sindresorhus",
+            "repo": "clipboardy",
+            "stars": 1982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "update-notifier",
+          "description": "Update notifications for your CLI app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T12:05:02Z",
+            "owner": "sindresorhus",
+            "repo": "update-notifier",
+            "stars": 1805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "signal-exit",
+          "description": "When you want to fire an event no matter how a process exits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-25T19:21:39Z",
+            "owner": "tapjs",
+            "repo": "signal-exit",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "indent-string",
+          "description": "Indent each line in a string.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-05T07:44:39Z",
+            "owner": "sindresorhus",
+            "repo": "indent-string",
+            "stars": 116
+          }
+        }
+      ],
+      "title": "Helpful"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzf",
+          "description": "A command-line fuzzy finder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bat",
+          "description": "A cat(1) clone with wings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:39:20Z",
+            "owner": "sharkdp",
+            "repo": "bat",
+            "stars": 60228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fd",
+          "description": "A simple, fast and user-friendly alternative to .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:42:55Z",
+            "owner": "sharkdp",
+            "repo": "fd",
+            "stars": 44071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zoxide",
+          "description": "A smarter cd command. Works on all major shells.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T18:53:37Z",
+            "owner": "ajeetdsouza",
+            "repo": "zoxide",
+            "stars": 38637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperfine",
+          "description": "A command-line benchmarking tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-30T08:23:25Z",
+            "owner": "sharkdp",
+            "repo": "hyperfine",
+            "stars": 28650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glow",
+          "description": "Render markdown on the CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T11:19:04Z",
+            "owner": "charmbracelet",
+            "repo": "glow",
+            "stars": 26865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hub",
+          "description": "It helps you win at git.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-02T21:00:44Z",
+            "owner": "mislav",
+            "repo": "hub",
+            "stars": 22955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eza",
+          "description": "A modern replacement for .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T19:53:22Z",
+            "owner": "eza-community",
+            "repo": "eza",
+            "stars": 22923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fx",
+          "description": "Command-line JSON processing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T11:36:44Z",
+            "owner": "antonmedv",
+            "repo": "fx",
+            "stars": 20578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gron",
+          "description": "Make JSON greppable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-31T15:00:47Z",
+            "owner": "tomnomnom",
+            "repo": "gron",
+            "stars": 14499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bore",
+          "description": "Making tunnels to localhost",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-04T18:00:26Z",
+            "owner": "ekzhang",
+            "repo": "bore",
+            "stars": 11390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pup",
+          "description": "Parsing HTML at the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-02T13:43:38Z",
+            "owner": "ericchiang",
+            "repo": "pup",
+            "stars": 8439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peco",
+          "description": "Simplistic interactive filtering tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T10:02:37Z",
+            "owner": "peco",
+            "repo": "peco",
+            "stars": 7906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "entrp",
+          "description": "Run arbitrary commands when files change (alternative).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T07:47:11Z",
+            "owner": "watchexec",
+            "repo": "watchexec",
+            "stars": 7115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dog",
+          "description": "Command-line DNS client alternative to .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-29T11:36:13Z",
+            "owner": "ogham",
+            "repo": "dog",
+            "stars": 6688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpstat",
+          "description": "statistics made simple.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T10:04:34Z",
+            "owner": "reorx",
+            "repo": "httpstat",
+            "stars": 6217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dua",
+          "description": "Interactive disk usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T02:53:12Z",
+            "owner": "Byron",
+            "repo": "dua-cli",
+            "stars": 6124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jnv",
+          "description": "Interactive JSON filter using jq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-27T04:25:32Z",
+            "owner": "ynqa",
+            "repo": "jnv",
+            "stars": 6087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htop",
+          "description": "htop is an interactive .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2020-11-17T07:00:48Z",
+            "owner": "hishamhm",
+            "repo": "htop",
+            "stars": 5900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lumen",
+          "description": "Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-16T22:10:23Z",
+            "owner": "jnsahaj",
+            "repo": "lumen",
+            "stars": 2735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spot",
+          "description": "Tiny search utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-01-02T23:45:40Z",
+            "owner": "rauchg",
+            "repo": "spot",
+            "stars": 954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnomon",
+          "description": "Perfect for analyze quickly logs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-11-30T06:11:53Z",
+            "owner": "paypal",
+            "repo": "gnomon",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clipboard",
+          "description": "Access the system clipboard (copy/paste).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T12:44:32Z",
+            "owner": "sindresorhus",
+            "repo": "clipboard-cli",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "share",
+          "description": "Quickly share files from your command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-01T16:11:12Z",
+            "owner": "marionebl",
+            "repo": "share-cli",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pv",
+          "description": "Monitoring the progress of data through a pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-04-03T00:32:28Z",
+            "owner": "icetee",
+            "repo": "pv",
+            "stars": 259
+          }
+        }
+      ],
+      "title": "Lovely Commands"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:17:03.424Z",
+    "original_repository": "Kikobeats/awesome-cli",
+    "original_repository_sha": "07fd2310ac88526ea1cfb621ca09d9611595cd58",
+    "enhanced_repository": "enhansome/enhansome-cli",
+    "enhanced_repository_description": null,
+    "title": "Awesome CLI with stars"
+  }
+}
