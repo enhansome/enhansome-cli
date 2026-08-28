@@ -35,7 +35,7 @@
   <br>
 </div>
 
-* [chalk](https://github.com/chalk/chalk) ⭐ 23,310 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-26 - Terminal string styling done right.
+* [chalk](https://github.com/chalk/chalk) ⭐ 23,311 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-26 - Terminal string styling done right.
 * [chalk-animation](https://github.com/bokub/chalk-animation) ⭐ 2,180 | 🐛 5 | 🌐 JavaScript | 📅 2022-11-13 - Colorful animations in terminal output.
 * [boxen](https://github.com/sindresorhus/boxen) ⭐ 1,675 | 🐛 9 | 🌐 JavaScript | 📅 2025-09-19 - Create boxes in the terminal.
 * [gradient-string](https://github.com/bokub/gradient-string) ⭐ 1,198 | 🐛 3 | 🌐 TypeScript | 📅 2024-10-12 - Beautiful color gradients in terminal output.
@@ -82,7 +82,7 @@
   <br>
 </div>
 
-* [ink](https://github.com/vadimdemedes/ink) ⭐ 39,744 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-25 - React for interactive command-line apps.
+* [ink](https://github.com/vadimdemedes/ink) ⭐ 39,747 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-25 - React for interactive command-line apps.
 
 ## Helpful
 
@@ -108,22 +108,22 @@
   <br>
 </div>
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 82,674 | 🐛 326 | 🌐 Go | 📅 2026-08-26 - A command-line fuzzy finder.
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,276 | 🐛 423 | 🌐 Rust | 📅 2026-08-11 - A cat(1) clone with wings.
-* [fd](https://github.com/sharkdp/fd) ⭐ 44,213 | 🐛 190 | 🌐 Rust | 📅 2026-08-26 - A simple, fast and user-friendly alternative to `find`.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 38,922 | 🐛 138 | 🌐 Rust | 📅 2026-08-24 - A smarter cd command. Works on all major shells.
-* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,746 | 🐛 96 | 🌐 Rust | 📅 2026-04-30 - A command-line benchmarking tool.
-* [glow](https://github.com/charmbracelet/glow) ⭐ 27,077 | 🐛 223 | 🌐 Go | 📅 2026-08-16 - Render markdown on the CLI.
-* [eza](https://github.com/eza-community/eza) ⭐ 23,055 | 🐛 438 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for `ls`.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 82,686 | 🐛 326 | 🌐 Go | 📅 2026-08-26 - A command-line fuzzy finder.
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,278 | 🐛 422 | 🌐 Rust | 📅 2026-08-11 - A cat(1) clone with wings.
+* [fd](https://github.com/sharkdp/fd) ⭐ 44,222 | 🐛 192 | 🌐 Rust | 📅 2026-08-26 - A simple, fast and user-friendly alternative to `find`.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 38,959 | 🐛 137 | 🌐 Rust | 📅 2026-08-24 - A smarter cd command. Works on all major shells.
+* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,752 | 🐛 96 | 🌐 Rust | 📅 2026-04-30 - A command-line benchmarking tool.
+* [glow](https://github.com/charmbracelet/glow) ⭐ 27,090 | 🐛 225 | 🌐 Go | 📅 2026-08-16 - Render markdown on the CLI.
+* [eza](https://github.com/eza-community/eza) ⭐ 23,062 | 🐛 438 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for `ls`.
 * [hub](https://github.com/github/hub) ⭐ 22,957 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - It helps you win at git.
-* [fx](https://github.com/antonmedv/fx) ⭐ 20,596 | 🐛 26 | 🌐 Go | 📅 2026-08-26 - Command-line JSON processing tool.
+* [fx](https://github.com/antonmedv/fx) ⭐ 20,600 | 🐛 26 | 🌐 Go | 📅 2026-08-26 - Command-line JSON processing tool.
 * [gron](https://github.com/tomnomnom/gron) ⭐ 14,498 | 🐛 50 | 🌐 Go | 📅 2025-05-31 - Make JSON greppable.
-* [bore](https://github.com/ekzhang/bore) ⭐ 11,445 | 🐛 14 | 🌐 Rust | 📅 2026-02-04 - Making tunnels to localhost
+* [bore](https://github.com/ekzhang/bore) ⭐ 11,449 | 🐛 14 | 🌐 Rust | 📅 2026-02-04 - Making tunnels to localhost
 * [pup](https://github.com/ericchiang/pup) ⭐ 8,435 | 🐛 106 | 🌐 HTML | 📅 2024-05-02 - Parsing HTML at the command line.
-* [peco](https://github.com/peco/peco) ⭐ 7,911 | 🐛 8 | 🌐 Go | 📅 2026-08-22 - Simplistic interactive filtering tool.
-* [entrp](http://eradman.com/entrproject/) - Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec) ⭐ 7,141 | 🐛 28 | 🌐 Rust | 📅 2026-08-24).
+* [peco](https://github.com/peco/peco) ⭐ 7,910 | 🐛 8 | 🌐 Go | 📅 2026-08-22 - Simplistic interactive filtering tool.
+* [entrp](http://eradman.com/entrproject/) - Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec) ⭐ 7,143 | 🐛 28 | 🌐 Rust | 📅 2026-08-24).
 * [dog](https://github.com/ogham/dog) ⭐ 6,687 | 🐛 79 | 🌐 Rust | 📅 2024-05-29 -  Command-line DNS client alternative to `dig`.
-* [httpstat](https://github.com/reorx/httpstat) ⭐ 6,217 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - `curl` statistics made simple.
+* [httpstat](https://github.com/reorx/httpstat) ⭐ 6,218 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - `curl` statistics made simple.
 * [dua](https://github.com/Byron/dua-cli) ⭐ 6,179 | 🐛 27 | 🌐 Rust | 📅 2026-08-25 - Interactive disk usage.
 * [jnv](https://github.com/ynqa/jnv) ⭐ 6,095 | 🐛 31 | 🌐 Rust | 📅 2026-08-20 - Interactive JSON filter using jq.
 * [htop](https://github.com/hishamhm/htop) ⚠️ Archived - htop is an interactive `top`.
@@ -140,4 +140,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
