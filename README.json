@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elegant terminal spinner",
+            "homepage": null,
             "id": 53072654,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-22T22:14:56Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "ora",
-            "stars": 9742
+            "stars": 9742,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Output one line and move to beginning of line. Useful for progress bars and counters with no breaks in the terminal",
+            "homepage": null,
             "id": 12764771,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-08-05T09:53:53Z",
+            "open_issues": 9,
             "owner": "freeall",
             "repo": "single-line-log",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get a progress bar as a string",
+            "homepage": null,
             "id": 72994795,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-01-29T11:47:09Z",
+            "open_issues": 0,
             "owner": "watson",
             "repo": "progress-string",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         }
@@ -64,12 +79,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖍 Terminal string styling done right",
+            "homepage": null,
             "id": 11855195,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T14:51:04Z",
+            "open_issues": 0,
             "owner": "chalk",
             "repo": "chalk",
-            "stars": 23311
+            "stars": 23310,
+            "topics": [
+              "ansi",
+              "ansi-escape-codes",
+              "chalk",
+              "cli",
+              "color",
+              "commandline",
+              "console",
+              "javascript",
+              "strip-ansi",
+              "terminal",
+              "terminal-emulators"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -80,12 +112,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":clapper: Colorful animations in terminal output",
+            "homepage": null,
             "id": 97959341,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-13T10:59:52Z",
+            "open_issues": 5,
             "owner": "bokub",
             "repo": "chalk-animation",
-            "stars": 2180
+            "stars": 2180,
+            "topics": [
+              "animation",
+              "chalk",
+              "color",
+              "console",
+              "nodejs",
+              "npm-package",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -96,12 +141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create boxes in the terminal",
+            "homepage": null,
             "id": 48394154,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-19T03:55:38Z",
+            "open_issues": 9,
             "owner": "sindresorhus",
             "repo": "boxen",
-            "stars": 1675
+            "stars": 1675,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -112,12 +162,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rainbow:  Beautiful color gradients in terminal output",
+            "homepage": null,
             "id": 97616950,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-12T08:36:03Z",
+            "open_issues": 3,
             "owner": "bokub",
             "repo": "gradient-string",
-            "stars": 1198
+            "stars": 1198,
+            "topics": [
+              "color",
+              "console",
+              "gradient",
+              "nodejs",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -128,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate sparklines ▁▂▃▅▂▇",
+            "homepage": null,
             "id": 23405998,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-10T08:35:43Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "sparkly",
-            "stars": 435
+            "stars": 435,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         }
@@ -150,12 +216,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❯ Lightweight, beautiful and user-friendly interactive prompts",
+            "homepage": null,
             "id": 122728925,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-14T16:42:36Z",
+            "open_issues": 150,
             "owner": "terkelg",
             "repo": "prompts",
-            "stars": 9311
+            "stars": 9311,
+            "topics": [
+              "choice",
+              "cli",
+              "command-line",
+              "interface",
+              "nodejs",
+              "prompt",
+              "prompter",
+              "prompts"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -166,12 +246,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal interactive command-line prompts library",
+            "homepage": "https://klaudiosinani.com/qoa",
             "id": 165136921,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-03T14:46:11Z",
+            "open_issues": 12,
             "owner": "klaudiosinani",
             "repo": "qoa",
-            "stars": 2051
+            "stars": 2051,
+            "topics": [
+              "cli",
+              "command-line",
+              "interactive",
+              "interfaces",
+              "library",
+              "prompts"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -182,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI email prompt with autocompletion and built-in validation",
+            "homepage": "https://npmjs.com/email-prompt",
             "id": 59433028,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T03:26:57Z",
+            "open_issues": 2,
             "owner": "vercel",
             "repo": "email-prompt",
-            "stars": 278
+            "stars": 278,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -198,12 +295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A transform stream that diffs input buffers and outputs the diff as ANSI. If you pipe this to a terminal it will update the output with minimal changes",
+            "homepage": null,
             "id": 63357769,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-23T02:32:28Z",
+            "open_issues": 2,
             "owner": "mafintosh",
             "repo": "ansi-diff-stream",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         }
@@ -220,12 +322,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create clickable links in the terminal",
+            "homepage": null,
             "id": 128096799,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-08T11:27:07Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "terminal-link",
-            "stars": 670
+            "stars": 670,
+            "topics": [
+              "command-line",
+              "hyperlink",
+              "hyperlink-support",
+              "nodejs",
+              "npm-package",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -236,12 +350,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretty unicode tables for the command line",
+            "homepage": null,
             "id": 136803521,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-19T18:21:47Z",
+            "open_issues": 26,
             "owner": "cli-table",
             "repo": "cli-table3",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "cli",
+              "nodejs",
+              "tables"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -252,12 +375,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stringifies any javascript object in your console for CLI inspection  :sparkles: ",
+            "homepage": null,
             "id": 82183462,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-22T06:24:46Z",
+            "open_issues": 2,
             "owner": "queckezz",
             "repo": "fmt-obj",
-            "stars": 444
+            "stars": 444,
+            "topics": [
+              "awesome",
+              "fmt",
+              "format",
+              "formatter",
+              "object",
+              "pretty"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -268,12 +403,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display images in iTerm",
+            "homepage": null,
             "id": 53490828,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-07T04:22:35Z",
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "term-img",
-            "stars": 318
+            "stars": 318,
+            "topics": [
+              "cli-utility",
+              "image",
+              "iterm2",
+              "nodejs",
+              "npm-package",
+              "terminal-image"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -284,12 +431,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sparkles: Make your JSON look AWESOME",
+            "homepage": null,
             "id": 43980160,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-29T22:26:11Z",
+            "open_issues": 15,
             "owner": "Javascipt",
             "repo": "Jsome",
-            "stars": 251
+            "stars": 251,
+            "topics": [
+              "color",
+              "colors",
+              "json",
+              "json-objects"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -300,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a neat cli logger for stateful command line applications",
+            "homepage": null,
             "id": 87225535,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-29T17:21:00Z",
+            "open_issues": 5,
             "owner": "neat-log",
             "repo": "neat-log",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -316,12 +478,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretty print messages on the terminal",
+            "homepage": null,
             "id": 83428509,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-15T07:21:13Z",
+            "open_issues": 4,
             "owner": "siddharthkp",
             "repo": "prettycli",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "messages",
+              "node",
+              "pretty",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -332,12 +504,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretty-print Error objects for terminals and logs with readable stacks and colors.",
+            "homepage": "https://github.com/Kikobeats/beauty-error",
             "id": 156206701,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T20:08:54Z",
+            "open_issues": 0,
             "owner": "Kikobeats",
             "repo": "beauty-error",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "beautify",
+              "error",
+              "format",
+              "inspect",
+              "log",
+              "pretty",
+              "print",
+              "render",
+              "stack",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         }
@@ -354,12 +542,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐈 CLI app helper",
+            "homepage": null,
             "id": 25121561,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T18:40:22Z",
+            "open_issues": 3,
             "owner": "sindresorhus",
             "repo": "meow",
-            "stars": 3712
+            "stars": 3712,
+            "topics": [
+              "cli",
+              "command-line",
+              "javascript",
+              "kitten",
+              "meow",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -370,12 +570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access the system clipboard (copy/paste)",
+            "homepage": null,
             "id": 75538424,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-23T11:44:38Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "clipboardy",
-            "stars": 1983
+            "stars": 1983,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -386,12 +591,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Update notifications for your CLI app",
+            "homepage": null,
             "id": 7069389,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-25T12:05:02Z",
+            "open_issues": 19,
             "owner": "sindresorhus",
             "repo": "update-notifier",
-            "stars": 1808
+            "stars": 1808,
+            "topics": [
+              "command-line-utility",
+              "node-module",
+              "notifications",
+              "npm-package",
+              "update-chec",
+              "update-notifier",
+              "updater"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -402,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "when you want to fire an event no matter how a process exits.",
+            "homepage": null,
             "id": 35711072,
             "language": "TypeScript",
+            "license": "BlueOak-1.0.0",
             "last_commit": "2025-10-25T19:21:39Z",
+            "open_issues": 11,
             "owner": "tapjs",
             "repo": "signal-exit",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -418,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indent each line in a string",
+            "homepage": null,
             "id": 20576837,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-05T07:44:39Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "indent-string",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         }
@@ -440,12 +668,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cherry_blossom: A command-line fuzzy finder",
+            "homepage": "https://junegunn.github.io/fzf/",
             "id": 13807606,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:07:09Z",
+            "open_issues": 327,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82702
+            "stars": 82702,
+            "topics": [
+              "bash",
+              "cli",
+              "fish",
+              "fzf",
+              "go",
+              "neovim",
+              "tmux",
+              "unix",
+              "vim",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -456,12 +700,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cat(1) clone with wings.",
+            "homepage": null,
             "id": 130464961,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T14:39:20Z",
+            "open_issues": 424,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60289
+            "stars": 60289,
+            "topics": [
+              "cli",
+              "command-line",
+              "git",
+              "hacktoberfest",
+              "rust",
+              "syntax-highlighting",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -472,12 +730,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, fast and user-friendly alternative to 'find'",
+            "homepage": null,
             "id": 90793418,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:52:24Z",
+            "open_issues": 196,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44236
+            "stars": 44237,
+            "topics": [
+              "cli",
+              "command-line",
+              "filesystem",
+              "hacktoberfest",
+              "regex",
+              "rust",
+              "search",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -488,12 +761,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A smarter cd command. Supports all major shells.",
+            "homepage": "https://crates.io/crates/zoxide",
             "id": 245166720,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:59:29Z",
+            "open_issues": 139,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38996
+            "stars": 39000,
+            "topics": [
+              "autojump",
+              "bash",
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "elvish",
+              "fasd",
+              "fish",
+              "fish-shell",
+              "fzf",
+              "hacktoberfest",
+              "jump",
+              "nushell",
+              "powershell",
+              "rust",
+              "shell",
+              "xonsh",
+              "xontrib",
+              "z",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -504,12 +803,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line benchmarking tool",
+            "homepage": null,
             "id": 117356231,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-30T08:23:25Z",
+            "open_issues": 96,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28757
+            "stars": 28757,
+            "topics": [
+              "benchmark",
+              "cli",
+              "command-line",
+              "rust",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -520,12 +831,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+            "homepage": null,
             "id": 219616873,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-16T00:02:03Z",
+            "open_issues": 225,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27102
+            "stars": 27104,
+            "topics": [
+              "cli",
+              "excitement",
+              "hacktoberfest",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -536,12 +857,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern alternative to ls",
+            "homepage": "https://eza.rocks",
             "id": 671832156,
             "language": "Rust",
+            "license": "EUPL-1.2",
             "last_commit": "2026-08-06T19:53:22Z",
+            "open_issues": 438,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23070
+            "stars": 23070,
+            "topics": [
+              "color",
+              "command-line",
+              "files",
+              "hacktoberfest",
+              "icons",
+              "ls",
+              "nerd-fonts",
+              "rust",
+              "terminal",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -552,12 +889,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool that makes git easier to use with GitHub.",
+            "homepage": "https://hub.github.com/",
             "id": 401025,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-02T21:00:44Z",
+            "open_issues": 294,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22956
+            "stars": 22956,
+            "topics": [
+              "git",
+              "github-api",
+              "go",
+              "homebrew",
+              "pull-request"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -568,12 +916,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal JSON viewer & processor",
+            "homepage": "https://fx.wtf",
             "id": 118945118,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:49:32Z",
+            "open_issues": 26,
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20603
+            "stars": 20603,
+            "topics": [
+              "cli",
+              "command-line",
+              "json",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -584,12 +942,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make JSON greppable!",
+            "homepage": null,
             "id": 5724223,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-05-31T15:00:47Z",
+            "open_issues": 50,
             "owner": "tomnomnom",
             "repo": "gron",
-            "stars": 14498
+            "stars": 14499,
+            "topics": [
+              "cli",
+              "json"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -600,12 +966,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+            "homepage": "http://bore.pub",
             "id": 477528511,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-04T18:00:26Z",
+            "open_issues": 14,
             "owner": "ekzhang",
             "repo": "bore",
-            "stars": 11464
+            "stars": 11465,
+            "topics": [
+              "cli",
+              "localhost",
+              "networking",
+              "proxy",
+              "rust",
+              "self-hosted",
+              "tcp",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -616,12 +996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parsing HTML at the command line",
+            "homepage": null,
             "id": 23527160,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-05-02T13:43:38Z",
+            "open_issues": 106,
             "owner": "ericchiang",
             "repo": "pup",
-            "stars": 8435
+            "stars": 8435,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -632,12 +1017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplistic interactive filtering tool",
+            "homepage": null,
             "id": 20553267,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:53:17Z",
+            "open_issues": 8,
             "owner": "peco",
             "repo": "peco",
-            "stars": 7909
+            "stars": 7909,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -648,12 +1038,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Executes commands in response to file modifications",
+            "homepage": "https://watchexec.github.io",
             "id": 68546136,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:26:15Z",
+            "open_issues": 28,
             "owner": "watchexec",
             "repo": "watchexec",
-            "stars": 7146
+            "stars": 7147,
+            "topics": [
+              "command-line",
+              "developer-tools",
+              "file-watchers",
+              "linux",
+              "macos",
+              "rust",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -664,12 +1067,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line DNS client.",
+            "homepage": "https://dns.lookup.dog/",
             "id": 258827107,
             "language": "Rust",
+            "license": "EUPL-1.2",
             "last_commit": "2024-05-29T11:36:13Z",
+            "open_issues": 79,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6690
+            "stars": 6690,
+            "topics": [
+              "client",
+              "command-line",
+              "dns",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -680,12 +1093,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "curl statistics made simple",
+            "homepage": null,
             "id": 66913302,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-08T10:04:34Z",
+            "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6218
+            "stars": 6218,
+            "topics": [
+              "cli",
+              "curl",
+              "http",
+              "python",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -696,12 +1120,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View disk space usage and delete unwanted data, fast.",
+            "homepage": "https://lib.rs/crates/dua-cli",
             "id": 189215168,
             "language": "Rust",
-            "last_commit": "2026-08-28T04:02:51Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:41:55Z",
+            "open_issues": 29,
             "owner": "Byron",
             "repo": "dua-cli",
-            "stars": 6185
+            "stars": 6185,
+            "topics": [
+              "cleaner",
+              "disk",
+              "efficient",
+              "fast",
+              "space-use",
+              "terminal-based"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -712,12 +1148,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive JSON filter using jq",
+            "homepage": null,
             "id": 773832743,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-20T11:04:28Z",
+            "open_issues": 31,
             "owner": "ynqa",
             "repo": "jnv",
-            "stars": 6094
+            "stars": 6094,
+            "topics": [
+              "autocomplete",
+              "cli",
+              "command-line",
+              "interactive",
+              "jq",
+              "json",
+              "kubernetes",
+              "prompt",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -728,12 +1179,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.",
+            "homepage": null,
             "id": 15884926,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2020-11-17T07:00:48Z",
+            "open_issues": 315,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5895
+            "stars": 5895,
+            "topics": [
+              "c",
+              "console",
+              "console-application",
+              "freebsd",
+              "htop",
+              "linux",
+              "macos",
+              "openbsd",
+              "process-monitor",
+              "system",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -744,12 +1213,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI",
+            "homepage": null,
             "id": 879874959,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-16T22:10:23Z",
+            "open_issues": 69,
             "owner": "jnsahaj",
             "repo": "lumen",
-            "stars": 2794
+            "stars": 2802,
+            "topics": [
+              "cli",
+              "commit",
+              "git",
+              "llm",
+              "openai",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -760,12 +1241,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny file search utility (bash)",
+            "homepage": null,
             "id": 3619133,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-01-02T23:45:40Z",
+            "open_issues": 7,
             "owner": "rauchg",
             "repo": "spot",
-            "stars": 954
+            "stars": 954,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -776,12 +1262,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Utility to annotate console logging statements with timestamps and find slow processes",
+            "homepage": null,
             "id": 53617612,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-11-30T06:11:53Z",
+            "open_issues": 11,
             "owner": "paypal",
             "repo": "gnomon",
-            "stars": 932
+            "stars": 932,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -792,12 +1283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access the system clipboard (copy/paste)",
+            "homepage": null,
             "id": 75539227,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-03T12:44:32Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "clipboard-cli",
-            "stars": 509
+            "stars": 509,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -808,12 +1304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌍  Quickly share files from your command line",
+            "homepage": null,
             "id": 61820665,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-01T16:11:12Z",
+            "open_issues": 4,
             "owner": "marionebl",
             "repo": "share-cli",
-            "stars": 409
+            "stars": 409,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         },
@@ -824,12 +1325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pipe Viewer Mirror - 1.6",
+            "homepage": "http://www.ivarch.com/programs/pv.shtml",
             "id": 8895443,
             "language": "C",
+            "license": null,
             "last_commit": "2022-04-03T00:32:28Z",
+            "open_issues": 6,
             "owner": "icetee",
             "repo": "pv",
-            "stars": 266
+            "stars": 266,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
         }
@@ -838,15 +1344,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:43:59.841Z",
+    "last_updated": "2026-08-29T04:47:00.451Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources for building immersive CLI experiences.",
+      "homepage": null,
       "id": 110226491,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-01-24T11:23:10Z",
+      "open_issues": 8,
       "owner": "Kikobeats",
       "repo": "awesome-cli",
-      "stars": 352
+      "stars": 352,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cli",
+        "command-line",
+        "command-line-tool"
+      ]
     },
     "original_repository_sha": "07fd2310ac88526ea1cfb621ca09d9611595cd58",
     "enhanced_repository": "enhansome/enhansome-cli",
