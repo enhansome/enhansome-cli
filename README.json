@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "ora",
-            "stars": 9743,
+            "stars": 9744,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -88,7 +88,7 @@
             "open_issues": 0,
             "owner": "chalk",
             "repo": "chalk",
-            "stars": 23312,
+            "stars": 23315,
             "topics": [
               "ansi",
               "ansi-escape-codes",
@@ -225,7 +225,7 @@
             "open_issues": 150,
             "owner": "terkelg",
             "repo": "prompts",
-            "stars": 9309,
+            "stars": 9310,
             "topics": [
               "choice",
               "cli",
@@ -359,7 +359,7 @@
             "open_issues": 26,
             "owner": "cli-table",
             "repo": "cli-table3",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "cli",
               "nodejs",
@@ -673,11 +673,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-31T10:09:46Z",
-            "open_issues": 328,
+            "last_commit": "2026-09-03T13:15:43Z",
+            "open_issues": 329,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82786,
+            "stars": 82804,
             "topics": [
               "bash",
               "cli",
@@ -705,11 +705,11 @@
             "id": 130464961,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T03:33:11Z",
-            "open_issues": 424,
+            "last_commit": "2026-09-03T19:07:15Z",
+            "open_issues": 421,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60350,
+            "stars": 60365,
             "topics": [
               "cli",
               "command-line",
@@ -736,10 +736,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-02T16:00:52Z",
-            "open_issues": 199,
+            "open_issues": 198,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44289,
+            "stars": 44299,
             "topics": [
               "cli",
               "command-line",
@@ -770,7 +770,7 @@
             "open_issues": 141,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39129,
+            "stars": 39146,
             "topics": [
               "autojump",
               "bash",
@@ -812,7 +812,7 @@
             "open_issues": 97,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28793,
+            "stars": 28801,
             "topics": [
               "benchmark",
               "cli",
@@ -840,7 +840,7 @@
             "open_issues": 229,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27166,
+            "stars": 27175,
             "topics": [
               "cli",
               "excitement",
@@ -866,7 +866,7 @@
             "open_issues": 445,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23130,
+            "stars": 23141,
             "topics": [
               "color",
               "command-line",
@@ -925,7 +925,7 @@
             "open_issues": 27,
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20617,
+            "stars": 20618,
             "topics": [
               "cli",
               "command-line",
@@ -951,7 +951,7 @@
             "open_issues": 50,
             "owner": "tomnomnom",
             "repo": "gron",
-            "stars": 14503,
+            "stars": 14500,
             "topics": [
               "cli",
               "json"
@@ -1026,7 +1026,7 @@
             "open_issues": 8,
             "owner": "peco",
             "repo": "peco",
-            "stars": 7909,
+            "stars": 7910,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -1043,11 +1043,11 @@
             "id": 68546136,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T00:23:46Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-03T09:42:24Z",
+            "open_issues": 33,
             "owner": "watchexec",
             "repo": "watchexec",
-            "stars": 7168,
+            "stars": 7173,
             "topics": [
               "command-line",
               "developer-tools",
@@ -1088,6 +1088,39 @@
         },
         {
           "node_type": "item",
+          "title": "dua",
+          "description": "Interactive disk usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "View disk space usage and delete unwanted data, fast.",
+            "homepage": "https://lib.rs/crates/dua-cli",
+            "id": 189215168,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-03T07:56:21Z",
+            "open_issues": 1,
+            "owner": "Byron",
+            "repo": "dua-cli",
+            "stars": 6221,
+            "topics": [
+              "cleaner",
+              "disk",
+              "disk-space",
+              "disk-space-analyzer",
+              "disk-usage",
+              "disk-usage-analyzer",
+              "efficient",
+              "fast",
+              "free-disk-space",
+              "space-use",
+              "terminal-based"
+            ]
+          },
+          "first_seen": "2026-08-29T01:43:59.841Z"
+        },
+        {
+          "node_type": "item",
           "title": "httpstat",
           "description": "statistics made simple.",
           "children": [],
@@ -1102,46 +1135,13 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6218,
+            "stars": 6219,
             "topics": [
               "cli",
               "curl",
               "http",
               "python",
               "visualization"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:59.841Z"
-        },
-        {
-          "node_type": "item",
-          "title": "dua",
-          "description": "Interactive disk usage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "View disk space usage and delete unwanted data, fast.",
-            "homepage": "https://lib.rs/crates/dua-cli",
-            "id": 189215168,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-08-31T14:53:37Z",
-            "open_issues": 0,
-            "owner": "Byron",
-            "repo": "dua-cli",
-            "stars": 6213,
-            "topics": [
-              "cleaner",
-              "disk",
-              "disk-space",
-              "disk-space-analyzer",
-              "disk-usage",
-              "disk-usage-analyzer",
-              "efficient",
-              "fast",
-              "free-disk-space",
-              "space-use",
-              "terminal-based"
             ]
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -1227,7 +1227,7 @@
             "open_issues": 69,
             "owner": "jnsahaj",
             "repo": "lumen",
-            "stars": 2840,
+            "stars": 2848,
             "topics": [
               "cli",
               "commit",
@@ -1255,7 +1255,7 @@
             "open_issues": 7,
             "owner": "rauchg",
             "repo": "spot",
-            "stars": 954,
+            "stars": 952,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -1349,7 +1349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T20:58:47.640Z",
+    "last_updated": "2026-09-03T20:57:08.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for building immersive CLI experiences.",
