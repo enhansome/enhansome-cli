@@ -88,7 +88,7 @@
             "open_issues": 1,
             "owner": "chalk",
             "repo": "chalk",
-            "stars": 23325,
+            "stars": 23323,
             "topics": [
               "ansi",
               "ansi-escape-codes",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "bokub",
             "repo": "gradient-string",
-            "stars": 1197,
+            "stars": 1196,
             "topics": [
               "color",
               "console",
@@ -225,7 +225,7 @@
             "open_issues": 150,
             "owner": "terkelg",
             "repo": "prompts",
-            "stars": 9313,
+            "stars": 9314,
             "topics": [
               "choice",
               "cli",
@@ -677,7 +677,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83393,
+            "stars": 83400,
             "topics": [
               "bash",
               "cli",
@@ -709,7 +709,7 @@
             "open_issues": 543,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60684,
+            "stars": 60688,
             "topics": [
               "cli",
               "command-line",
@@ -735,11 +735,11 @@
             "id": 90793418,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T04:52:14Z",
-            "open_issues": 202,
+            "last_commit": "2026-10-06T03:00:03Z",
+            "open_issues": 198,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44645,
+            "stars": 44646,
             "topics": [
               "cli",
               "command-line",
@@ -770,7 +770,7 @@
             "open_issues": 144,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39894,
+            "stars": 39903,
             "topics": [
               "autojump",
               "bash",
@@ -808,11 +808,11 @@
             "id": 117356231,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T20:48:07Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-06T08:53:11Z",
+            "open_issues": 58,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28947,
+            "stars": 28951,
             "topics": [
               "benchmark",
               "cli",
@@ -840,7 +840,7 @@
             "open_issues": 242,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27585,
+            "stars": 27594,
             "topics": [
               "cli",
               "excitement",
@@ -863,10 +863,10 @@
             "language": "Rust",
             "license": "EUPL-1.2",
             "last_commit": "2026-08-06T19:53:22Z",
-            "open_issues": 464,
+            "open_issues": 463,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23478,
+            "stars": 23480,
             "topics": [
               "color",
               "command-line",
@@ -975,7 +975,7 @@
             "open_issues": 18,
             "owner": "ekzhang",
             "repo": "bore",
-            "stars": 11523,
+            "stars": 11525,
             "topics": [
               "cli",
               "localhost",
@@ -1047,7 +1047,7 @@
             "open_issues": 31,
             "owner": "watchexec",
             "repo": "watchexec",
-            "stars": 7213,
+            "stars": 7216,
             "topics": [
               "command-line",
               "developer-tools",
@@ -1102,7 +1102,7 @@
             "open_issues": 0,
             "owner": "Byron",
             "repo": "dua-cli",
-            "stars": 6325,
+            "stars": 6328,
             "topics": [
               "cleaner",
               "disk",
@@ -1162,7 +1162,7 @@
             "open_issues": 32,
             "owner": "ynqa",
             "repo": "jnv",
-            "stars": 6121,
+            "stars": 6124,
             "topics": [
               "autocomplete",
               "cli",
@@ -1349,7 +1349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:59:43.330Z",
+    "last_updated": "2026-10-06T10:53:42.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for building immersive CLI experiences.",
