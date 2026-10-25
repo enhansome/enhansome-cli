@@ -22,7 +22,7 @@
   <br>
 </div>
 
-* [ora](https://github.com/sindresorhus/ora) ⭐ 9,767 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-18 - Elegant terminal spinner.
+* [ora](https://github.com/sindresorhus/ora) ⭐ 9,768 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-18 - Elegant terminal spinner.
 * [single-line-log](https://github.com/freeall/single-line-log) ⭐ 209 | 🐛 9 | 🌐 JavaScript | 📅 2022-08-05 - Keep writing to the same line in the terminal.
 * [progress-string](https://github.com/watson/progress-string) ⭐ 96 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-29 - Progress bar to be placed anywhere.
 
@@ -35,7 +35,7 @@
   <br>
 </div>
 
-* [chalk](https://github.com/chalk/chalk) ⭐ 23,333 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-22 - Terminal string styling done right.
+* [chalk](https://github.com/chalk/chalk) ⭐ 23,334 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-22 - Terminal string styling done right.
 * [chalk-animation](https://github.com/bokub/chalk-animation) ⭐ 2,186 | 🐛 5 | 🌐 JavaScript | 📅 2022-11-13 - Colorful animations in terminal output.
 * [boxen](https://github.com/sindresorhus/boxen) ⭐ 1,676 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-21 - Create boxes in the terminal.
 * [gradient-string](https://github.com/bokub/gradient-string) ⭐ 1,199 | 🐛 3 | 🌐 TypeScript | 📅 2024-10-12 - Beautiful color gradients in terminal output.
@@ -82,7 +82,7 @@
   <br>
 </div>
 
-* [ink](https://github.com/vadimdemedes/ink) ⭐ 40,158 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-03 - React for interactive command-line apps.
+* [ink](https://github.com/vadimdemedes/ink) ⭐ 40,169 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-25 - React for interactive command-line apps.
 
 ## Helpful
 
@@ -108,24 +108,24 @@
   <br>
 </div>
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 83,757 | 🐛 334 | 🌐 Go | 📅 2026-10-21 - A command-line fuzzy finder.
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,917 | 🐛 572 | 🌐 Rust | 📅 2026-10-20 - A cat(1) clone with wings.
-* [fd](https://github.com/sharkdp/fd) ⭐ 44,854 | 🐛 213 | 🌐 Rust | 📅 2026-10-24 - A simple, fast and user-friendly alternative to `find`.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,275 | 🐛 155 | 🌐 Rust | 📅 2026-10-24 - A smarter cd command. Works on all major shells.
-* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,147 | 🐛 63 | 🌐 Rust | 📅 2026-10-12 - A command-line benchmarking tool.
-* [glow](https://github.com/charmbracelet/glow) ⭐ 27,785 | 🐛 258 | 🌐 Go | 📅 2026-10-05 - Render markdown on the CLI.
-* [eza](https://github.com/eza-community/eza) ⭐ 23,659 | 🐛 471 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for `ls`.
-* [hub](https://github.com/github/hub) ⭐ 22,955 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - It helps you win at git.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 83,782 | 🐛 334 | 🌐 Go | 📅 2026-10-25 - A command-line fuzzy finder.
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,931 | 🐛 575 | 🌐 Rust | 📅 2026-10-20 - A cat(1) clone with wings.
+* [fd](https://github.com/sharkdp/fd) ⭐ 44,859 | 🐛 215 | 🌐 Rust | 📅 2026-10-24 - A simple, fast and user-friendly alternative to `find`.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,291 | 🐛 156 | 🌐 Rust | 📅 2026-10-24 - A smarter cd command. Works on all major shells.
+* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,151 | 🐛 63 | 🌐 Rust | 📅 2026-10-12 - A command-line benchmarking tool.
+* [glow](https://github.com/charmbracelet/glow) ⭐ 27,808 | 🐛 258 | 🌐 Go | 📅 2026-10-05 - Render markdown on the CLI.
+* [eza](https://github.com/eza-community/eza) ⭐ 23,663 | 🐛 471 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for `ls`.
+* [hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - It helps you win at git.
 * [fx](https://github.com/antonmedv/fx) ⭐ 20,695 | 🐛 5 | 🌐 Go | 📅 2026-10-22 - Command-line JSON processing tool.
 * [gron](https://github.com/tomnomnom/gron) ⭐ 14,527 | 🐛 51 | 🌐 Go | 📅 2025-05-31 - Make JSON greppable.
-* [bore](https://github.com/ekzhang/bore) ⭐ 11,554 | 🐛 18 | 🌐 Rust | 📅 2026-02-04 - Making tunnels to localhost
+* [bore](https://github.com/ekzhang/bore) ⭐ 11,555 | 🐛 18 | 🌐 Rust | 📅 2026-02-04 - Making tunnels to localhost
 * [pup](https://github.com/ericchiang/pup) ⭐ 8,434 | 🐛 106 | 🌐 HTML | 📅 2024-05-02 - Parsing HTML at the command line.
 * [peco](https://github.com/peco/peco) ⭐ 7,911 | 🐛 3 | 🌐 Go | 📅 2026-10-24 - Simplistic interactive filtering tool.
-* [entrp](http://eradman.com/entrproject/) - Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec) ⭐ 7,248 | 🐛 34 | 🌐 Rust | 📅 2026-10-23).
-* [dog](https://github.com/ogham/dog) ⭐ 6,692 | 🐛 78 | 🌐 Rust | 📅 2024-05-29 -  Command-line DNS client alternative to `dig`.
-* [dua](https://github.com/Byron/dua-cli) ⭐ 6,382 | 🐛 0 | 🌐 Rust | 📅 2026-10-24 - Interactive disk usage.
-* [httpstat](https://github.com/reorx/httpstat) ⭐ 6,218 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - `curl` statistics made simple.
-* [jnv](https://github.com/ynqa/jnv) ⭐ 6,126 | 🐛 31 | 🌐 Rust | 📅 2026-10-24 - Interactive JSON filter using jq.
+* [entrp](http://eradman.com/entrproject/) - Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec) ⭐ 7,252 | 🐛 35 | 🌐 Rust | 📅 2026-10-23).
+* [dog](https://github.com/ogham/dog) ⭐ 6,690 | 🐛 78 | 🌐 Rust | 📅 2024-05-29 -  Command-line DNS client alternative to `dig`.
+* [dua](https://github.com/Byron/dua-cli) ⭐ 6,386 | 🐛 0 | 🌐 Rust | 📅 2026-10-25 - Interactive disk usage.
+* [httpstat](https://github.com/reorx/httpstat) ⭐ 6,219 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - `curl` statistics made simple.
+* [jnv](https://github.com/ynqa/jnv) ⭐ 6,128 | 🐛 31 | 🌐 Rust | 📅 2026-10-24 - Interactive JSON filter using jq.
 * [htop](https://github.com/hishamhm/htop) ⚠️ Archived - htop is an interactive `top`.
 * [lumen](https://github.com/jnsahaj/lumen) ⭐ 2,899 | 🐛 78 | 🌐 Rust | 📅 2026-09-17 - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI.
 * [spot](https://github.com/rauchg/spot) ⭐ 948 | 🐛 7 | 🌐 Shell | 📅 2024-01-02 - Tiny search utility.
@@ -140,4 +140,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
