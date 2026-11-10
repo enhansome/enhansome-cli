@@ -22,7 +22,7 @@
   <br>
 </div>
 
-* [ora](https://github.com/sindresorhus/ora) ⭐ 9,771 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-31 - Elegant terminal spinner.
+* [ora](https://github.com/sindresorhus/ora) ⭐ 9,772 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-31 - Elegant terminal spinner.
 * [single-line-log](https://github.com/freeall/single-line-log) ⭐ 209 | 🐛 9 | 🌐 JavaScript | 📅 2022-08-05 - Keep writing to the same line in the terminal.
 * [progress-string](https://github.com/watson/progress-string) ⭐ 96 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-29 - Progress bar to be placed anywhere.
 
@@ -50,7 +50,7 @@
   <br>
 </div>
 
-* [prompts](https://github.com/terkelg/prompts) ⭐ 9,309 | 🐛 148 | 🌐 JavaScript | 📅 2025-05-14 - Lightweight, beautiful and user-friendly interactive prompts.
+* [prompts](https://github.com/terkelg/prompts) ⭐ 9,310 | 🐛 148 | 🌐 JavaScript | 📅 2025-05-14 - Lightweight, beautiful and user-friendly interactive prompts.
 * [qoa](https://github.com/klaussinani/qoa) ⭐ 2,046 | 🐛 12 | 🌐 JavaScript | 📅 2025-11-03 - Minimal interactive command-line prompts.
 * [email-prompt](https://github.com/zeit/email-prompt) ⭐ 278 | 🐛 2 | 🌐 JavaScript | 📅 2023-03-04 - CLI email prompt featuring autocompletion and validation.
 * [ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream) ⭐ 108 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-23 - A diff friendly cli input module.
@@ -66,7 +66,7 @@
 
 * [terminal-link](https://github.com/sindresorhus/terminal-link) ⭐ 671 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Create clickable links in the terminal.
 * [cli-table3](https://github.com/cli-table/cli-table3) ⭐ 639 | 🐛 32 | 🌐 JavaScript | 📅 2026-04-19 - Pretty unicode tables for the command line.
-* [fmt-obj](https://github.com/queckezz/fmt-obj) ⭐ 444 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-22 - Stringifies any JavaScript object in your console for CLI inspection.
+* [fmt-obj](https://github.com/queckezz/fmt-obj) ⭐ 445 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-22 - Stringifies any JavaScript object in your console for CLI inspection.
 * [term-img](https://github.com/sindresorhus/term-img) ⭐ 318 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Display images in iTerm.
 * [jsome](https://github.com/Javascipt/Jsome) ⭐ 251 | 🐛 15 | 🌐 JavaScript | 📅 2023-11-29 - Pretty format JSON on terminal.
 * [neat-log](https://github.com/neat-log/neat-log) ⭐ 65 | 🐛 5 | 🌐 JavaScript | 📅 2021-09-29 - Logger for stateful Command Line Applications.
@@ -82,7 +82,7 @@
   <br>
 </div>
 
-* [ink](https://github.com/vadimdemedes/ink) ⭐ 40,251 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-31 - React for interactive command-line apps.
+* [ink](https://github.com/vadimdemedes/ink) ⭐ 40,258 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-10 - React for interactive command-line apps.
 
 ## Helpful
 
@@ -108,26 +108,26 @@
   <br>
 </div>
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 84,114 | 🐛 333 | 🌐 Go | 📅 2026-11-07 - A command-line fuzzy finder.
-* [bat](https://github.com/sharkdp/bat) ⭐ 61,267 | 🐛 565 | 🌐 Rust | 📅 2026-11-08 - A cat(1) clone with wings.
-* [fd](https://github.com/sharkdp/fd) ⭐ 45,129 | 🐛 205 | 🌐 Rust | 📅 2026-11-09 - A simple, fast and user-friendly alternative to `find`.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,534 | 🐛 156 | 🌐 Rust | 📅 2026-11-08 - A smarter cd command. Works on all major shells.
-* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,233 | 🐛 77 | 🌐 Rust | 📅 2026-11-01 - A command-line benchmarking tool.
-* [glow](https://github.com/charmbracelet/glow) ⭐ 27,977 | 🐛 268 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI.
-* [eza](https://github.com/eza-community/eza) ⭐ 23,846 | 🐛 480 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for `ls`.
-* [hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - It helps you win at git.
-* [fx](https://github.com/antonmedv/fx) ⭐ 20,711 | 🐛 11 | 🌐 Go | 📅 2026-10-22 - Command-line JSON processing tool.
-* [gron](https://github.com/tomnomnom/gron) ⭐ 14,538 | 🐛 57 | 🌐 Go | 📅 2025-05-31 - Make JSON greppable.
-* [bore](https://github.com/ekzhang/bore) ⭐ 11,586 | 🐛 18 | 🌐 Rust | 📅 2026-02-04 - Making tunnels to localhost
-* [pup](https://github.com/ericchiang/pup) ⭐ 8,430 | 🐛 106 | 🌐 HTML | 📅 2024-05-02 - Parsing HTML at the command line.
-* [peco](https://github.com/peco/peco) ⭐ 7,906 | 🐛 2 | 🌐 Go | 📅 2026-11-09 - Simplistic interactive filtering tool.
-* [entrp](http://eradman.com/entrproject/) - Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec) ⭐ 7,280 | 🐛 39 | 🌐 Rust | 📅 2026-11-06).
-* [dog](https://github.com/ogham/dog) ⭐ 6,691 | 🐛 79 | 🌐 Rust | 📅 2024-05-29 -  Command-line DNS client alternative to `dig`.
-* [dua](https://github.com/Byron/dua-cli) ⭐ 6,424 | 🐛 0 | 🌐 Rust | 📅 2026-11-09 - Interactive disk usage.
-* [httpstat](https://github.com/reorx/httpstat) ⭐ 6,220 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - `curl` statistics made simple.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 84,138 | 🐛 334 | 🌐 Go | 📅 2026-11-07 - A command-line fuzzy finder.
+* [bat](https://github.com/sharkdp/bat) ⭐ 61,286 | 🐛 566 | 🌐 Rust | 📅 2026-11-10 - A cat(1) clone with wings.
+* [fd](https://github.com/sharkdp/fd) ⭐ 45,144 | 🐛 205 | 🌐 Rust | 📅 2026-11-09 - A simple, fast and user-friendly alternative to `find`.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,546 | 🐛 155 | 🌐 Rust | 📅 2026-11-08 - A smarter cd command. Works on all major shells.
+* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,243 | 🐛 77 | 🌐 Rust | 📅 2026-11-01 - A command-line benchmarking tool.
+* [glow](https://github.com/charmbracelet/glow) ⭐ 27,994 | 🐛 269 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI.
+* [eza](https://github.com/eza-community/eza) ⭐ 23,866 | 🐛 480 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for `ls`.
+* [hub](https://github.com/github/hub) ⭐ 22,958 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - It helps you win at git.
+* [fx](https://github.com/antonmedv/fx) ⭐ 20,713 | 🐛 11 | 🌐 Go | 📅 2026-10-22 - Command-line JSON processing tool.
+* [gron](https://github.com/tomnomnom/gron) ⭐ 14,540 | 🐛 57 | 🌐 Go | 📅 2025-05-31 - Make JSON greppable.
+* [bore](https://github.com/ekzhang/bore) ⭐ 11,592 | 🐛 18 | 🌐 Rust | 📅 2026-02-04 - Making tunnels to localhost
+* [pup](https://github.com/ericchiang/pup) ⭐ 8,431 | 🐛 106 | 🌐 HTML | 📅 2024-05-02 - Parsing HTML at the command line.
+* [peco](https://github.com/peco/peco) ⭐ 7,907 | 🐛 2 | 🌐 Go | 📅 2026-11-09 - Simplistic interactive filtering tool.
+* [entrp](http://eradman.com/entrproject/) - Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec) ⭐ 7,283 | 🐛 39 | 🌐 Rust | 📅 2026-11-06).
+* [dog](https://github.com/ogham/dog) ⭐ 6,694 | 🐛 79 | 🌐 Rust | 📅 2024-05-29 -  Command-line DNS client alternative to `dig`.
+* [dua](https://github.com/Byron/dua-cli) ⭐ 6,432 | 🐛 0 | 🌐 Rust | 📅 2026-11-09 - Interactive disk usage.
+* [httpstat](https://github.com/reorx/httpstat) ⭐ 6,221 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - `curl` statistics made simple.
 * [jnv](https://github.com/ynqa/jnv) ⭐ 6,134 | 🐛 32 | 🌐 Rust | 📅 2026-10-26 - Interactive JSON filter using jq.
 * [htop](https://github.com/hishamhm/htop) ⚠️ Archived - htop is an interactive `top`.
-* [lumen](https://github.com/jnsahaj/lumen) ⭐ 2,909 | 🐛 78 | 🌐 Rust | 📅 2026-09-17 - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI.
+* [lumen](https://github.com/jnsahaj/lumen) ⭐ 2,912 | 🐛 80 | 🌐 Rust | 📅 2026-09-17 - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI.
 * [spot](https://github.com/rauchg/spot) ⭐ 948 | 🐛 8 | 🌐 Shell | 📅 2024-01-02 - Tiny search utility.
 * [gnomon](https://github.com/paypal/gnomon) ⚠️ Archived - Perfect for analyze quickly logs.
 * [clipboard](https://github.com/sindresorhus/clipboard-cli) ⭐ 510 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Access the system clipboard (copy/paste).
