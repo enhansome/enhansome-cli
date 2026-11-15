@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "ora",
-            "stars": 9773,
+            "stars": 9774,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -88,7 +88,7 @@
             "open_issues": 1,
             "owner": "chalk",
             "repo": "chalk",
-            "stars": 23338,
+            "stars": 23340,
             "topics": [
               "ansi",
               "ansi-escape-codes",
@@ -225,7 +225,7 @@
             "open_issues": 148,
             "owner": "terkelg",
             "repo": "prompts",
-            "stars": 9310,
+            "stars": 9311,
             "topics": [
               "choice",
               "cli",
@@ -255,7 +255,7 @@
             "open_issues": 12,
             "owner": "klaudiosinani",
             "repo": "qoa",
-            "stars": 2047,
+            "stars": 2048,
             "topics": [
               "cli",
               "command-line",
@@ -629,7 +629,7 @@
             "open_issues": 11,
             "owner": "tapjs",
             "repo": "signal-exit",
-            "stars": 201,
+            "stars": 202,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -646,11 +646,11 @@
             "id": 20576837,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T19:08:08Z",
+            "last_commit": "2026-11-15T16:41:40Z",
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "indent-string",
-            "stars": 116,
+            "stars": 117,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -677,7 +677,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84203,
+            "stars": 84213,
             "topics": [
               "bash",
               "cli",
@@ -705,11 +705,11 @@
             "id": 130464961,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T05:54:40Z",
-            "open_issues": 570,
+            "last_commit": "2026-11-15T19:00:01Z",
+            "open_issues": 565,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 61260,
+            "stars": 61275,
             "topics": [
               "cli",
               "command-line",
@@ -736,10 +736,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T05:30:50Z",
-            "open_issues": 206,
+            "open_issues": 204,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 45062,
+            "stars": 45069,
             "topics": [
               "cli",
               "command-line",
@@ -770,7 +770,7 @@
             "open_issues": 158,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 40593,
+            "stars": 40599,
             "topics": [
               "autojump",
               "bash",
@@ -812,7 +812,7 @@
             "open_issues": 79,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29275,
+            "stars": 29282,
             "topics": [
               "benchmark",
               "cli",
@@ -840,7 +840,7 @@
             "open_issues": 268,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 28036,
+            "stars": 28047,
             "topics": [
               "cli",
               "excitement",
@@ -863,10 +863,10 @@
             "language": "Rust",
             "license": "EUPL-1.2",
             "last_commit": "2026-08-06T19:53:22Z",
-            "open_issues": 486,
+            "open_issues": 484,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23905,
+            "stars": 23920,
             "topics": [
               "color",
               "command-line",
@@ -898,7 +898,7 @@
             "open_issues": 294,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22958,
+            "stars": 22957,
             "topics": [
               "git",
               "github-api",
@@ -925,7 +925,7 @@
             "open_issues": 12,
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20715,
+            "stars": 20717,
             "topics": [
               "cli",
               "command-line",
@@ -951,7 +951,7 @@
             "open_issues": 57,
             "owner": "tomnomnom",
             "repo": "gron",
-            "stars": 14540,
+            "stars": 14539,
             "topics": [
               "cli",
               "json"
@@ -975,7 +975,7 @@
             "open_issues": 18,
             "owner": "ekzhang",
             "repo": "bore",
-            "stars": 11605,
+            "stars": 11608,
             "topics": [
               "cli",
               "localhost",
@@ -1047,7 +1047,7 @@
             "open_issues": 42,
             "owner": "watchexec",
             "repo": "watchexec",
-            "stars": 7290,
+            "stars": 7294,
             "topics": [
               "command-line",
               "developer-tools",
@@ -1102,7 +1102,7 @@
             "open_issues": 0,
             "owner": "Byron",
             "repo": "dua-cli",
-            "stars": 6442,
+            "stars": 6443,
             "topics": [
               "cleaner",
               "disk",
@@ -1349,7 +1349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:17:26.082Z",
+    "last_updated": "2026-11-15T22:45:04.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for building immersive CLI experiences.",
@@ -1358,7 +1358,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-01-24T11:23:10Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "Kikobeats",
       "repo": "awesome-cli",
       "stars": 356,
