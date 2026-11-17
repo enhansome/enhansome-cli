@@ -88,7 +88,7 @@
             "open_issues": 1,
             "owner": "chalk",
             "repo": "chalk",
-            "stars": 23340,
+            "stars": 23341,
             "topics": [
               "ansi",
               "ansi-escape-codes",
@@ -171,7 +171,7 @@
             "open_issues": 3,
             "owner": "bokub",
             "repo": "gradient-string",
-            "stars": 1200,
+            "stars": 1199,
             "topics": [
               "color",
               "console",
@@ -225,7 +225,7 @@
             "open_issues": 148,
             "owner": "terkelg",
             "repo": "prompts",
-            "stars": 9311,
+            "stars": 9314,
             "topics": [
               "choice",
               "cli",
@@ -255,7 +255,7 @@
             "open_issues": 12,
             "owner": "klaudiosinani",
             "repo": "qoa",
-            "stars": 2048,
+            "stars": 2049,
             "topics": [
               "cli",
               "command-line",
@@ -359,7 +359,7 @@
             "open_issues": 32,
             "owner": "cli-table",
             "repo": "cli-table3",
-            "stars": 639,
+            "stars": 640,
             "topics": [
               "cli",
               "nodejs",
@@ -579,7 +579,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "clipboardy",
-            "stars": 1981,
+            "stars": 1982,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -600,7 +600,7 @@
             "open_issues": 19,
             "owner": "sindresorhus",
             "repo": "update-notifier",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "command-line-utility",
               "node-module",
@@ -674,10 +674,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-12T01:51:46Z",
-            "open_issues": 333,
+            "open_issues": 334,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 84213,
+            "stars": 84231,
             "topics": [
               "bash",
               "cli",
@@ -705,11 +705,11 @@
             "id": 130464961,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T19:00:01Z",
-            "open_issues": 565,
+            "last_commit": "2026-11-16T04:33:46Z",
+            "open_issues": 566,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 61275,
+            "stars": 61288,
             "topics": [
               "cli",
               "command-line",
@@ -736,10 +736,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T05:30:50Z",
-            "open_issues": 204,
+            "open_issues": 206,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 45069,
+            "stars": 45081,
             "topics": [
               "cli",
               "command-line",
@@ -770,7 +770,7 @@
             "open_issues": 158,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 40599,
+            "stars": 40611,
             "topics": [
               "autojump",
               "bash",
@@ -809,10 +809,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-01T03:02:36Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29282,
+            "stars": 29287,
             "topics": [
               "benchmark",
               "cli",
@@ -840,7 +840,7 @@
             "open_issues": 268,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 28047,
+            "stars": 28065,
             "topics": [
               "cli",
               "excitement",
@@ -863,10 +863,10 @@
             "language": "Rust",
             "license": "EUPL-1.2",
             "last_commit": "2026-08-06T19:53:22Z",
-            "open_issues": 484,
+            "open_issues": 488,
             "owner": "eza-community",
             "repo": "eza",
-            "stars": 23920,
+            "stars": 23929,
             "topics": [
               "color",
               "command-line",
@@ -898,7 +898,7 @@
             "open_issues": 294,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22957,
+            "stars": 22956,
             "topics": [
               "git",
               "github-api",
@@ -972,10 +972,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-02-04T18:00:26Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "ekzhang",
             "repo": "bore",
-            "stars": 11608,
+            "stars": 11612,
             "topics": [
               "cli",
               "localhost",
@@ -1005,7 +1005,7 @@
             "open_issues": 106,
             "owner": "ericchiang",
             "repo": "pup",
-            "stars": 8427,
+            "stars": 8428,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -1022,8 +1022,8 @@
             "id": 20553267,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-14T00:52:31Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-15T23:58:28Z",
+            "open_issues": 2,
             "owner": "peco",
             "repo": "peco",
             "stars": 7909,
@@ -1076,7 +1076,7 @@
             "open_issues": 79,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6695,
+            "stars": 6694,
             "topics": [
               "client",
               "command-line",
@@ -1098,11 +1098,11 @@
             "id": 189215168,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-12T14:00:58Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-16T11:55:20Z",
+            "open_issues": 1,
             "owner": "Byron",
             "repo": "dua-cli",
-            "stars": 6443,
+            "stars": 6446,
             "topics": [
               "cleaner",
               "disk",
@@ -1135,7 +1135,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6221,
+            "stars": 6223,
             "topics": [
               "cli",
               "curl",
@@ -1162,7 +1162,7 @@
             "open_issues": 32,
             "owner": "ynqa",
             "repo": "jnv",
-            "stars": 6137,
+            "stars": 6136,
             "topics": [
               "autocomplete",
               "cli",
@@ -1227,7 +1227,7 @@
             "open_issues": 83,
             "owner": "jnsahaj",
             "repo": "lumen",
-            "stars": 2917,
+            "stars": 2920,
             "topics": [
               "cli",
               "commit",
@@ -1297,7 +1297,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "clipboard-cli",
-            "stars": 510,
+            "stars": 511,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -1318,7 +1318,7 @@
             "open_issues": 4,
             "owner": "marionebl",
             "repo": "share-cli",
-            "stars": 412,
+            "stars": 413,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:59.841Z"
@@ -1349,7 +1349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:45:04.019Z",
+    "last_updated": "2026-11-17T01:50:24.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for building immersive CLI experiences.",
@@ -1361,7 +1361,7 @@
       "open_issues": 10,
       "owner": "Kikobeats",
       "repo": "awesome-cli",
-      "stars": 356,
+      "stars": 357,
       "topics": [
         "awesome",
         "awesome-list",
